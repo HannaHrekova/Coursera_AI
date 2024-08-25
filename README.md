@@ -1,1 +1,1 @@
-# Coursera_AI_repo
+# Course repository of Coursera AI
