@@ -3,7 +3,7 @@ My portfolio is currently under active development, including several interestin
 
 ### Additional:
 #### Applied Data Science
-This branch contains work related to the Applied Data Science module, including:
+This project contains work related to the Applied Data Science module, including:
 - 8 lab projects covering topics like data wrangling, EDA, SQL, interactive dashboards, and machine learning.
 - A presentation summarizing the results and insights.
 
