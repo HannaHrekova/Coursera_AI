@@ -1,6 +1,6 @@
 # AI Capstone Project with Deep Learning
 
-## This project consists of various tasks related to deep learning, data loading, and model training using PyTorch and pretrained models.
+### This project consists of various tasks related to deep learning, data loading, and model training using PyTorch and pretrained models.
 
 ### Table of Contents
 
