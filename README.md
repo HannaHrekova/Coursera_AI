@@ -3,22 +3,22 @@ My portfolio is currently under active development, including several interestin
 
 ### Additional:
 
-#### Applied Data Science
+#### 1. Applied Data Science
 This project contains work related to the Applied Data Science module, including:
 - 8 lab projects covering topics like data wrangling, EDA, SQL, interactive dashboards, and machine learning.
 - A presentation summarizing the results and insights.
 
-### [View Applied Data Science project here](https://github.com/HannaHrekova/Coursera_AI/tree/Applied_Data_Science)
+#### [View Applied Data Science project here](https://github.com/HannaHrekova/Coursera_AI/tree/Applied_Data_Science)
 
-#### Building a Regression Model in Keras
+#### 2. Building a Regression Model in Keras
 The project consists of four tasks, each completed in a separate Jupiter Notebook.
 
-### [View Building a Regression Model in Keras project here](https://github.com/HannaHrekova/Coursera_AI/tree/Building_a_Regression_Model_in_Keras)
+#### [View Building a Regression Model in Keras project here](https://github.com/HannaHrekova/Coursera_AI/tree/Building_a_Regression_Model_in_Keras)
 
-#### AI Capstone Project with Deep Learning
+#### 3. AI Capstone Project with Deep Learning
 This project consists of various tasks related to deep learning, data loading, and model training using PyTorch and pretrained models. 
 Some tasks were completed in skillsnetwork environment, and others in Google Colab.
 
-### [View AI Capstone Project with Deep Learning here](https://github.com/HannaHrekova/Coursera_AI/tree/AI_Capstone_Project_with_Deep_Learning)
+#### [View AI Capstone Project with Deep Learning here](https://github.com/HannaHrekova/Coursera_AI/tree/AI_Capstone_Project_with_Deep_Learning)
 
 ## Glory to Ukraine 🇺🇦
