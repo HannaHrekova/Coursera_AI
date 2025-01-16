@@ -4,9 +4,9 @@
 
 ### Table of Contents:
 
-    1) Overview
-    2) Tasks
-    3) Technologies
+##### 1. Overview
+##### 2. Tasks
+##### 3. Technologies
 
 ### 1. Overview
 
