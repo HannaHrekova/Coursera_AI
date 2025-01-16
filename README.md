@@ -8,11 +8,11 @@
     2. Tasks
     3. Technologies
 
-### 1.Overview
+### 1. Overview
 
 ## The project contains a series of tasks focusing on data loading, preprocessing, model training, and comparison of different pretrained models using PyTorch.
 
-### 2.The tasks include:
+### 2. The tasks include:
 
     Load_and_display_data(1): Loading and displaying dataset.
     Loading_Data(2): Reading and preparing data for training.
@@ -23,7 +23,7 @@
     Resnet18_PyTorch(7): Building and training a ResNet18 model using PyTorch.
     Comparing_Models(8): Comparing different models' performance.
 
-### 3.Technologies
+### 3. Technologies
 
     Python
     PyTorch
