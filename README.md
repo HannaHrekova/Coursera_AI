@@ -10,7 +10,7 @@
 
 ### 1.Overview
 
-## This repository contains a series of tasks focusing on data loading, preprocessing, model training, and comparison of different pretrained models using PyTorch.
+## The project contains a series of tasks focusing on data loading, preprocessing, model training, and comparison of different pretrained models using PyTorch.
 
 ### 2.The tasks include:
 
