@@ -14,21 +14,21 @@
 
 ### 2. The tasks include:
 
-    Load_and_display_data(1): Loading and displaying dataset.
-    Loading_Data(2): Reading and preparing data for training.
-    Data_loader_PyTorch(3): Creating a PyTorch DataLoader.
-    Data_Preparation(4): Preparing the data for machine learning tasks.
-    LinearclassiferPytorch(5): Training a linear classifier using PyTorch.
-    Pretrained_Models(6): Exploring and utilizing pretrained models.
-    Resnet18_PyTorch(7): Building and training a ResNet18 model using PyTorch.
-    Comparing_Models(8): Comparing different models' performance.
+   - Load_and_display_data(1): Loading and displaying dataset.
+   - Loading_Data(2): Reading and preparing data for training.
+   - Data_loader_PyTorch(3): Creating a PyTorch DataLoader.
+   - Data_Preparation(4): Preparing the data for machine learning tasks.
+   - LinearclassiferPytorch(5): Training a linear classifier using PyTorch.
+   - Pretrained_Models(6): Exploring and utilizing pretrained models.
+   - Resnet18_PyTorch(7): Building and training a ResNet18 model using PyTorch.
+   - Comparing_Models(8): Comparing different models' performance.
 
 ### 3. Technologies
 
-    Python
-    PyTorch
-    Pretrained Models (e.g., ResNet18)
-    SkillsNetwork
-    Google Colab
+   - Python
+   - PyTorch
+   - Pretrained Models (e.g., ResNet18)
+   - SkillsNetwork
+   - Google Colab
 
 ### Some tasks were completed in skillsnetwork environment, and others in Google Colab.
