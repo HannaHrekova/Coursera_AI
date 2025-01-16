@@ -15,4 +15,10 @@ The project consists of four tasks, each completed in a separate Jupiter Noteboo
 
 ### [View Building a Regression Model in Keras project here](https://github.com/HannaHrekova/Coursera_AI/tree/Building_a_Regression_Model_in_Keras)
 
+#### AI Capstone Project with Deep Learning
+This project consists of various tasks related to deep learning, data loading, and model training using PyTorch and pretrained models. 
+Some tasks were completed in skillsnetwork environment, and others in Google Colab.
+
+### [View AI Capstone Project with Deep Learning here](https://github.com/HannaHrekova/Coursera_AI/tree/AI_Capstone_Project_with_Deep_Learning)
+
 ## Glory to Ukraine 🇺🇦
