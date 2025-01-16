@@ -2,11 +2,11 @@
 
 ### This project consists of various tasks related to deep learning, data loading, and model training using PyTorch and pretrained models.
 
-### Table of Contents
+### Table of Contents:
 
-    1- Overview
-    2- Tasks
-    3- Technologies
+    1) Overview
+    2) Tasks
+    3) Technologies
 
 ### 1. Overview
 
@@ -23,7 +23,7 @@
    - Resnet18_PyTorch(7): Building and training a ResNet18 model using PyTorch.
    - Comparing_Models(8): Comparing different models' performance.
 
-### 3. Technologies
+### 3. Technologies:
 
    - Python
    - PyTorch
