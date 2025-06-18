@@ -1,15 +1,3 @@
----
-title: Agent Alfred
-emoji: 💬
-colorFrom: blue
-colorTo: yellow
-sdk: gradio
-sdk_version: 5.34.1
-app_file: app.py
-pinned: false
-short_description: Agent Course, Unit 3
----
-
 # 🧠 Alfred — AI Multi-Tool Assistant
 
 **Alfred** is a LangGraph-based agent using **CohereLabs/c4ai-command-r-v01** to assist with multiple tasks involving guest information, web search, weather updates, statistics, and conversational memory.
@@ -56,6 +44,10 @@ project/
 ├── retriever.py           # Guest info + web search tools
 └── tools.py               # LangGraph agent setup
 ```
+
+### 🧪 Agent Alfred demonstration: answer to a query about Marie Curie
+
+![Alfred screenshot](screenshot_marie_curie.png)
 
 ## 👤 Author
 
