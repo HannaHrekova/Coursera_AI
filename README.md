@@ -45,11 +45,17 @@ project/
 └── tools.py               # LangGraph agent setup
 ```
 
-### 🧪 Agent Alfred demonstration: answer to a query about Marie Curie
+## 🧪 Agent demonstration: Alfred answering a question about Marie Curie
 
 ![Alfred screenshot](screenshot_marie_curie.png)
 
-## 👤 Author
+## 🧪 Test Alfred Online
+
+You can test the agent directly in your browser without installing anything locally:
+
+👉 [Go to Hugging Face Space](https://huggingface.co/spaces/HannaHrekova/Agent_for_Guest_Stories)
+
+## Author
 
 Created by **Hanna Hrekova**, AI enthusiast and lifelong learner.  
 Built with ❤️ for the Hugging Face community.
