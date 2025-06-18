@@ -21,4 +21,12 @@ Some tasks were completed in skillsnetwork environment, and others in Google Col
 
 #### [View AI Capstone Project with Deep Learning here](https://github.com/HannaHrekova/Coursera_AI/tree/AI_Capstone_Project_with_Deep_Learning)
 
+#### 4. Alfred — AI Multi-Tool Assistant (LangGraph Agent)
+
+Alfred is an AI assistant built using LangGraph and the CohereLabs/c4ai-command-r-v01 model.
+It combines multiple tools (web search, weather, guest info, etc.) and supports conversational memory.
+The agent was developed as part of the Hugging Face Agents Course and deployed with Gradio on Hugging Face Spaces.
+
+#### [View Agent Alfred here](https://github.com/HannaHrekova/Coursera_AI/tree/Agent_Alfred)
+
 ## Glory to Ukraine 🇺🇦
